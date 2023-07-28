@@ -1,4 +1,4 @@
-# [Repo Name]
+# CAD-Workshops
 This repository contains all of [fill in]
 
 ## File/Folder Naming

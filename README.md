@@ -1,5 +1,5 @@
 # CAD-Workshops
-This repository contains all of [fill in]
+This repository contains all of the files for the new recruits CAD workshops.
 
 ## File/Folder Naming
 When naming parts/folders increment the number for all new parts/folders and add a new 2-digit number for a new folder level
